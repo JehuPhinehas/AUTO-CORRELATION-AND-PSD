@@ -16,8 +16,6 @@ The Wiener–Khinchin theorem states that:
 The Power Spectral Density (PSD) of a wide-sense stationary random process is the Fourier Transform of its autocorrelation function.
 
 <img width="1062" height="301" alt="image" src="https://github.com/user-attachments/assets/868c6220-9932-4b72-80db-63e44ba4c85e" />
-<img width="1280" height="759" alt="WhatsApp Image 2026-06-06 at 7 42 57 PM" src="https://github.com/user-attachments/assets/96b6e60f-03ab-4ff9-8be5-778c2274ac73" />
-
 This relationship bridges the time-domain correlation and frequency-domain power representations of a signal.
 
 <h2>Algorithm</h2>
@@ -68,7 +66,7 @@ plot(fw2);
 
 <img width="1913" height="1193" alt="image" src="https://github.com/user-attachments/assets/d3d73924-1f75-4a42-96a7-7fd9a2984a55" />
 
-
+<img width="1280" height="759" alt="WhatsApp Image 2026-06-06 at 7 42 57 PM" src="https://github.com/user-attachments/assets/96b6e60f-03ab-4ff9-8be5-778c2274ac73" />
 
 <h2>Result</h2>
 
